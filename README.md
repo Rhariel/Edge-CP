@@ -21,6 +21,9 @@ Classificação de risco:
 < 0.8 m: Enchente!
 
 ![alt text]({B0327BCE-AC3F-4E15-8CD7-FA1BAC465C7E}.png)
+
 ao clicar sobre o sensor ira aparacer esta area verde, arrastando a bolinha sobre ela a distancia da medição sera mudada
 
 video: https://youtu.be/OQmWlugl6T0?si=f5SPeyABXbxam0cV
+
+Simulador: https://www.tinkercad.com/things/lawfHziqQI8/editel?sharecode=o92teLra5fJdC-F1rSz5FrZiw-Gyzvp_VA6t_1fFd5M
