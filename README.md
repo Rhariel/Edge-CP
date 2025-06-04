@@ -22,3 +22,5 @@ Classificação de risco:
 
 ![alt text]({B0327BCE-AC3F-4E15-8CD7-FA1BAC465C7E}.png)
 ao clicar sobre o sensor ira aparacer esta area verde, arrastando a bolinha sobre ela a distancia da medição sera mudada
+
+video: https://youtu.be/OQmWlugl6T0?si=f5SPeyABXbxam0cV
